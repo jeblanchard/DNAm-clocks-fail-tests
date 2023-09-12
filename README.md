@@ -1,8 +1,6 @@
 ### The repository for all code concerned with the paper, "Fail-tests of DNA methylation clocks, and development of a noise barometer for measuring epigenetic pressure during biological aging."
 
-To download all data used in analysis, run the script `download-all-data.sh` - held in the
-`scripts` folder. Since we used several GBs worth of data, downloading the required
-files will take a little bit of time.
+To make it easy to download and format all data used in analysis, we will soon add a script that will do this automatically.
 
 We make extensive use of the well-known tool, Jupyter Notebooks. More information can be found [here](https://jupyter.org/).
 
